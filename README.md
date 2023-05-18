@@ -1,6 +1,6 @@
 # Awesome Blockchain
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/yjjnls/awesome-blockchain)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/TyreseSong/Awesome_Blockchain)
 
 > Curated list of resources for the development and applications of block chain.
 
@@ -61,7 +61,7 @@ The blockchain is an incorruptible digital ledger of economic transactions that 
 
 A: A blockchain is a distributed database with a list (that is, chain) of records (that is, blocks) linked and secured by
 digital fingerprints (that is, crypto hashes).
-Example from [`genesis_block.json`](https://github.com/yjjnls/awesome-blockchain/tree/master/src/js/genesis_block.json):
+Example from [`genesis_block.json`](https://github.com/TyreseSong/Awesome_Blockchain/tree/master/src/js/genesis_block.json):
 
 ```js
 {
@@ -86,7 +86,7 @@ A: A hash e.g. `d611edb9fd86ee234cdc08d9bf382330d6ccc721cd5e59cf2a01b0a2a8decfff
 is a small digest checksum calculated
 with a one-way crypto(graphic) hash digest checksum function
 e.g. SHA256 (Secure Hash Algorithm 256 Bits)
-from the data. Example from [`crypto.js`](https://github.com/yjjnls/awesome-blockchain/blob/master/src/js/crypto.js):
+from the data. Example from [`crypto.js`](https://github.com/TyreseSong/Awesome_Blockchain/blob/master/src/js/crypto.js):
 
 ```js
 function calc_hash(data) {
@@ -202,7 +202,7 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 
 ### [Ethereum](https://github.com/ethereum)
 
-[<img src="https://github.com/yjjnls/Notes/blob/master/img/ethereum.png" align="right" width="80">](https://www.ethereum.org/)
+[<img src="https://github.com/TyreseSong/Notes/blob/master/img/ethereum.png" align="right" width="80">](https://www.ethereum.org/)
 
 **Ethereum** is a **decentralized platform that runs smart contracts**: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference.
 
@@ -493,8 +493,8 @@ Key enhancements over go-ethereum:
 
 + [**How to get started**](https://developers.eos.io/eosio-home)
 + [**Roadmap**](https://github.com/EOSIO/Documentation/blob/master/Roadmap.md)
-+ [**Tools**](https://github.com/yjjnls/awesome-blockchain/blob/master/Extension/eos.md#tools)  
-+ [**Language Support**](https://github.com/yjjnls/awesome-blockchain/blob/master/Extension/eos.md#language-support)  
++ [**Tools**](https://github.com/TyreseSong/Awesome_Blockchain/blob/master/Extension/eos.md#tools)  
++ [**Language Support**](https://github.com/TyreseSong/Awesome_Blockchain/blob/master/Extension/eos.md#language-support)  
 
 
 [<img src="https://avatars2.githubusercontent.com/u/10536621?s=200&v=4" align="right" width="80">](https://github.com/ipfs)  
@@ -544,8 +544,8 @@ Key enhancements over go-ethereum:
 
 -   [**Blockchain guide**](https://yeasy.gitbooks.io/blockchain_guide/content/) by Baohua Yang, 2017 --
     Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
-    <!-- -   [区块链原理、设计与应用](https://github.com/yjjnls/books/blob/master/block%20chain/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%8E%9F%E7%90%86%E3%80%81%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BA%94%E7%94%A8.pdf) -->
--   [**Blockchain: from Digital Currency to Credit Society**](https://github.com/yjjnls/books/blob/master/block%20chain/%E5%8C%BA%E5%9D%97%E9%93%BE%20%E4%BB%8E%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E5%88%B0%E4%BF%A1%E7%94%A8%E7%A4%BE%E4%BC%9A.pdf)
+    <!-- -   [区块链原理、设计与应用](https://github.com/TyreseSong/books/blob/master/block%20chain/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%8E%9F%E7%90%86%E3%80%81%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BA%94%E7%94%A8.pdf) -->
+-   [**Blockchain: from Digital Currency to Credit Society**](https://github.com/TyreseSong/books/blob/master/block%20chain/%E5%8C%BA%E5%9D%97%E9%93%BE%20%E4%BB%8E%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E5%88%B0%E4%BF%A1%E7%94%A8%E7%A4%BE%E4%BC%9A.pdf)
 -   [**Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts**](https://davidgerard.co.uk/blockchain/table-of-contents/) by David Gerard, London, 2017 --
     _What is a bitcoin? ++
     The Bitcoin ideology ++
@@ -791,8 +791,8 @@ Key enhancements over go-ethereum:
 
 Contributions welcome!
 
-1.  Fork it (<https://github.com/yjjnls/awesome-blockchain/fork>)
-2.  Clone it (`git clone https://github.com/yjjnls/awesome-blockchain`)
+1.  Fork it (<https://github.com/TyreseSong/Awesome_Blockchain/fork>)
+2.  Clone it (`git clone https://github.com/TyreseSong/Awesome_Blockchain`)
 3.  Create your feature branch (`git checkout -b your_branch_name`)
 4.  Commit your changes (`git commit -m 'Description of a commit'`)
 5.  Push to the branch (`git push origin your_branch_name`)
